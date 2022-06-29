@@ -1,2 +1,2 @@
 # coding-questions
-All questions related to coding in python
+Questions related to coding in python
